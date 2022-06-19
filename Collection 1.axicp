@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AxialisIconCollection>
+  <Name>Collection 1</Name>
+  <Icon>
+    <Name>user</Name>
+    <StockIconName>user.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Design</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName>search.axvi</StockOverlayName>
+    <ResourceIDValue>103</ResourceIDValue>
+    <ResourceID>ID_USER_4</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>1</ColorizeMode>
+    <ColorizeOverlay>#060200</ColorizeOverlay>
+    <Colorize>#060200</Colorize>
+    <StockOverlayPos>4</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>user</Name>
+    <StockIconName>user.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Design</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName>add.axvi</StockOverlayName>
+    <ResourceIDValue>100</ResourceIDValue>
+    <ResourceID>ID_USER</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>1</ColorizeMode>
+    <ColorizeOverlay>#060200</ColorizeOverlay>
+    <Colorize>#060200</Colorize>
+    <StockOverlayPos>3</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>user</Name>
+    <StockIconName>user.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Design</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName>remove.axvi</StockOverlayName>
+    <ResourceIDValue>101</ResourceIDValue>
+    <ResourceID>ID_USER_2</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>1</ColorizeMode>
+    <ColorizeOverlay>#060200</ColorizeOverlay>
+    <Colorize>#060200</Colorize>
+    <StockOverlayPos>3</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+  <Icon>
+    <Name>user</Name>
+    <StockIconName>user.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Design</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <StockOverlayName>edit.axvi</StockOverlayName>
+    <ResourceIDValue>102</ResourceIDValue>
+    <ResourceID>ID_USER_3</ResourceID>
+    <OverlayOffset>1</OverlayOffset>
+    <Opacity>255</Opacity>
+    <ColorizeMode>1</ColorizeMode>
+    <ColorizeOverlay>#060200</ColorizeOverlay>
+    <Colorize>#060200</Colorize>
+    <StockOverlayPos>3</StockOverlayPos>
+    <DarkMode>0</DarkMode>
+  </Icon>
+</AxialisIconCollection>
